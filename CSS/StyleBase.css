@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
