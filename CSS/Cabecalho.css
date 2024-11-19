@@ -1,0 +1,22 @@
+.perfil{
+    background-color: rgb(215, 215, 215);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+    margin-right: 0px;
+    display: flex;
+    width: 800000px;
+}
+.perfil img{
+    size: 200px;
+    border-radius: 100%;
+}
+.informacoes{
+    margin-top: 80px;
+    margin-left: 20px;
+    font-style: italic;
+}
+.informacoes ul li{
+    list-style: none;
+
+}
